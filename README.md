@@ -42,7 +42,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 
 | Project | Description | Project Link |
 |---------|-------------|---------- |
-| 🏠 Home Lab | Multi-VM Cybersecurity Lab | [View Project]()
+| 🏠 Home Lab | Multi-VM Cybersecurity Lab |[View Project]()
 | 🔐 AD CS | Enterprise Certificate Services |
 | 👥 Active Directory GPO | Secure Group Policy Configuration |
 | ☁ AWS IAM | Identity & Access Management |
