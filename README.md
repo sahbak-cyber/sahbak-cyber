@@ -41,7 +41,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 # ⭐ Featured Projects
 
 | Project | Description | Project Link |
-|---------|-------------|----------|
+|---------|-------------|---------- |
 | 🏠 Home Lab | Multi-VM Cybersecurity Lab |
 | 🔐 AD CS | Enterprise Certificate Services |
 | 👥 Active Directory GPO | Secure Group Policy Configuration |
