@@ -43,7 +43,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 | Project | Description | Project Link |
 |---------|-------------|---------- |
 | 🏠 Home Lab | Multi-VM Cybersecurity Lab |[View Project](https://github.com/sahbak-cyber/Multi-VM-Cybersecurity-Lab) |
-| 🌐 Network Segmentation | Segregation of Networks |[View Project](https://github.com/sahbak-cyber/Multi-VM-Cybersecurity-Lab) |
+| 🌐 Network Segmentation | Segregation of Networks |[View Project](https://github.com/sahbak-cyber/Network-Segmentation) |
 | 🔐 IAM on-prem | Identity and access management |[View Project](https://github.com/sahbak-cyber/AD-CS) |
 | 👥 Active Directory GPO | Secure Group Policy Configuration |[View Project]() |
 | ☁ AWS IAM | Identity & Access Management |[View Project]() |
