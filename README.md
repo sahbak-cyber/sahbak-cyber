@@ -45,7 +45,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 | 🏠 Home Lab | Multi-VM Cybersecurity Lab |[View Project](https://github.com/sahbak-cyber/Multi-VM-Departmental-Homelab) |
 | 🌐 Network Segmentation | Segregation of Networks |[View Project](https://github.com/sahbak-cyber/Network-Segmentation) |
 | 🔐 IAM on-prem | Identity & access management using Active Directory |[View Project](https://github.com/sahbak-cyber/AD-CS) |
-| 👥 Active Directory Certificte Service | Encrypting File System Using Active Directory Certificate Services AD CS |[View Project]() |
+| 👥 Active Directory Certificate Service | Encrypting File System Using Active Directory Certificate Services AD CS |[View Project]() |
 | ☁ AWS IAM | Identity & Access Management |[View Project]() |
 | ☁ Azure IAM | Microsoft Entra Identity |[View Project]() |
 | 🐧 Linux IAM | User & Permission Management |[View Project]() |
