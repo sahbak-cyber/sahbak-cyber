@@ -46,7 +46,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 | 🌐 Network Segmentation | Segregation of Networks |[View Project](https://github.com/sahbak-cyber/Network-Segmentation) |
 | 🔐 IAM on-prem | Identity & access management using Active Directory |[View Project](https://github.com/sahbak-cyber/AD-CS) |
 | 👥 Active Directory Certificate Service | Encrypting File System Using Active Directory Certificate Services AD CS |[View Project](https://github.com/sahbak-cyber/AD-CSS) |
-| ☁ AWS IAM | Identity & Access Management |[View Project]() |
+| ☁ AWS IAM | AWS IAM & Cloud Security Project |[View Project](https://github.com/sahbak-cyber/Identity-Access-Management) |
 | ☁ Azure IAM | Microsoft Entra Identity |[View Project]() |
 | 🐧 Linux IAM | User & Permission Management |[View Project]() |
 | 🛡 Nessus | Network Vulnerability Management |[View Project]() |
